@@ -1,4 +1,4 @@
-package roman.file_manager_application.gui;
+package roman.file_manager_application;
 
 import javafx.application.Application;
 
